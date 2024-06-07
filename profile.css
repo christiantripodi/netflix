@@ -21,7 +21,11 @@ body {
 
 .newGray {
     color: rgb(170, 167, 167)
+    
+}.slim {
+    font-weight: 400;
 }
+
 
 
 /* @media screen and (min-width: 800px) {
